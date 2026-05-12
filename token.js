@@ -1,9 +1,3 @@
 {
-  "tokens": [
-    "8690623838:AAGdHtYQMsetL1Cv087OA6SjBGnFSTQDSto",
-    "8791064306:AAFLmPKleKyV3nNspjXag1vRTVEsIB1MRqg",
-    "8590140097:AAHd9m3REIU0Q5zRpPhVhT1rgdO-M-WK1uM",
-    "426926007",
-    "8532384795:AAGf8bH1t6NZhO-MimFKkowSSW0_u96nGBQ"
-  ]
+  "tokens": []
 }
